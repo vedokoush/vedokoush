@@ -2,7 +2,7 @@
     <img width=300 src="./assets/shiroko-dance.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hi there%2C+traveler!+I'm+Thai Trung!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Hi+there%2C+traveler!+I%27m+Thai+Trung!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 
-## 👻 A little about me...  
+## 👻 A little about me...
 Hi! I’m a **17-year-old student from Vietnam** with a strong passion for **competitive programming, editing, web development, networking, applications, and AI.** Although I’m still a beginner in many areas, I’m always curious and eager to learn, constantly exploring new technologies and improving my skills.
 
 I enjoy participating in programming challenges and open-source projects (OSS/OSP), and I dream of **studying abroad** to gain more experience and share my work with the world. I hope to one day create projects that not only solve real problems but also inspire others in the tech community.
