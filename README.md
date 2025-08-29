@@ -7,7 +7,10 @@
 
 <div align="center">
     <a href="https://discord.com/users/556789221810241537/">
-        <img src="https://img.shields.io/badge/-Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=5F66E6" alt="Instagram"/>
+        <img src="https://img.shields.io/badge/-Discord-cba6f7?style=for-the-badge&logo=discord&logoColor=5F66E6" alt="Discord"/>
+    </a>
+    <a href="https://www.facebook.com/shouko606/">
+        <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
 </div>
 
